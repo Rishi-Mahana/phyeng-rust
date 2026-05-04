@@ -1,0 +1,1 @@
+This is a basic physics engine in Rust using Bevy and it's ECS systems to display. Has implementation for both RK4 and Verlet. Tried merging the two but failed miserably. Plannning on coming back to this and fixing stuff while adding more functionality, gravitation for example.
